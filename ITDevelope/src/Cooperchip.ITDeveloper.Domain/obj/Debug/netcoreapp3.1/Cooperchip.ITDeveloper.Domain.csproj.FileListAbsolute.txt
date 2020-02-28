@@ -1,0 +1,8 @@
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.deps.json
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.dll
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.pdb
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.AssemblyInfoInputs.cache
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.AssemblyInfo.cs
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.dll
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.pdb
+E:\Nuvem\CURSOS - FACULDADE\ASP.Net - zero ao nija\ITDevelope - Copia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.1\Cooperchip.ITDeveloper.Domain.csprojAssemblyReference.cache
