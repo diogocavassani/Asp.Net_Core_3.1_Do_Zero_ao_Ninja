@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj": {}
+    "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj": {}
   },
   "projects": {
-    "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj": {
+    "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj",
+        "projectUniqueName": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj",
         "projectName": "Cooperchip.ITDeveloper.Data",
-        "projectPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj",
+        "projectPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Data\\Cooperchip.ITDeveloper.Data.csproj",
         "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Data\\obj\\",
+        "outputPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj": {
-                "projectPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj"
+              "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj": {
+                "projectPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj"
               }
             }
           }
@@ -83,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj": {
+    "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj",
+        "projectUniqueName": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj",
         "projectName": "Cooperchip.ITDeveloper.Domain",
-        "projectPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj",
+        "projectPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Domain\\Cooperchip.ITDeveloper.Domain.csproj",
         "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\ITDevelope - Copia\\src\\Cooperchip.ITDeveloper.Domain\\obj\\",
+        "outputPath": "E:\\Nuvem\\CURSOS - FACULDADE\\ASP.Net - zero ao nija\\Asp.Net_Core_3.1_Do_Zero_ao_Ninja\\ITDevelope\\src\\Cooperchip.ITDeveloper.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

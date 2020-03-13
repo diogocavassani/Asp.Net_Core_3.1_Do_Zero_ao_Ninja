@@ -8,11 +8,14 @@ namespace Cooperchip.ITDevelope.Mvc.ViewComponents.Helpers
     {
         public static int TotReg(ITDeveloperDbContext ctx)
         {
+            
             return (from pac in ctx.Paciente.AsNoTracking() select pac).Count() ;
         }
 
         public static decimal GetNumRegEstado(ITDeveloperDbContext ctx, string estado)
         {
+
+            
             return ctx.Paciente
                 .Include(x=>x.EstadoPaciente).AsNoTracking()
                 .Count(x=>x.EstadoPaciente.Descricao.Contains(estado));
