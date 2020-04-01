@@ -1,0 +1,24 @@
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.deps.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.deps.json
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.deps.json
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Domain\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb

@@ -1,0 +1,62 @@
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.exe
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.deps.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.DomainCore.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.DomainCore.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.exe
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.deps.json
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.DomainCore.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.DomainCore.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.ConsoleApp\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.ConsoleApp.pdb

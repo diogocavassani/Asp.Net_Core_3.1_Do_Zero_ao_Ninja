@@ -1,0 +1,39 @@
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.deps.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2\DoZeroCopia\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.deps.json
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.dll
+D:\WFolders\Desktop\_Alunos\CursoAspNetCore31\Correcoes-de-Aulas\Migracao-10\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.pdb
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.deps.json
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.runtimeconfig.json
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.runtimeconfig.dev.json
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.dll
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.pdb
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.dll
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\bin\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Domain.pdb
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.csproj.CopyComplete
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.dll
+C:\Users\Diogo\Desktop\original\DoZero-v3.0.100\src\Cooperchip.ITDeveloper.Data\obj\Debug\netcoreapp3.0\Cooperchip.ITDeveloper.Data.pdb

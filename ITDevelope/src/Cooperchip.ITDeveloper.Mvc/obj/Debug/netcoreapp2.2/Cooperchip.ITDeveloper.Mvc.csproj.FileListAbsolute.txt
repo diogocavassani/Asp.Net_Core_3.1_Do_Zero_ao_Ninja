@@ -1,0 +1,210 @@
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.deps.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csproj.CoreCompileInputs.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.input.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.output.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorCoreGenerate.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_footer.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_head.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_scripts.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_navbar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_rightsidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_profile_left_sidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_lis_do_menu_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_menu_inferior_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Calendario.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\ITDeveloper\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.deps.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csproj.CoreCompileInputs.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.input.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.output.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorCoreGenerate.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_footer.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_head.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_layout_original.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_lis_do_menu_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_menu_inferior_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_navbar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_profile_left_sidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_rightsidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_scripts.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\Curso Asp.Net Core 2.2 - DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.deps.json
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Data.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Data.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.input.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.output.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorCoreGenerate.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Checkout.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Create.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Delete.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Details.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Edit.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Icones.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Sobre.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Create.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Delete.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Details.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Edit.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\_delete_details.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\_edit_create.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Lista.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_footer.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_head.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_layout_original.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_lis_do_menu_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_menu_inferior_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_navbar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_profile_left_sidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_rightsidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_scripts.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoCritico\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoEstavel\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoGrave\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoObservacaoViewComponents\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_estado_paciente.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZeroRefazendo\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Cabecalho\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.deps.json
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.json
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.runtimeconfig.dev.json
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Data.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Domain.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Data.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\bin\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Domain.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csprojAssemblyReference.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfoInputs.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.AssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.input.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.TagHelpers.output.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorCoreGenerate.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Checkout.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Create.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Delete.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Details.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Edit.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\EstadoPaciente\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Icones.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Sobre.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Create.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Delete.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Details.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Edit.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\_delete_details.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Paciente\_edit_create.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Lista.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Cabecalho\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoCritico\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoEstavel\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoGrave\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\EstadoObservacaoViewComponents\Default.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_estado_paciente.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_footer.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_head.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_layout_original.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_lis_do_menu_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_menu_inferior_left.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_navbar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_profile_left_sidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_rightsidebar.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_scripts.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cache
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.RazorTargetAssemblyInfo.cs
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.Views.pdb
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.csproj.CopyComplete
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.dll
+D:\WFolders\Desktop\_Alunos\CursoAsp.NetCore2.2-DoZero\src\Cooperchip.ITDeveloper.Mvc\obj\Debug\netcoreapp2.2\Cooperchip.ITDeveloper.Mvc.pdb
